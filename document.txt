@@ -1,0 +1,4 @@
+Text : Natural Language Processing project I am trying to make a speech recognizer
+Gender : female
+Text : Language Processing quotes and I am trying to make a speech recognizer
+Gender : female
